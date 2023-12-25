@@ -83,6 +83,10 @@ button {
  input{
   border-radius: 8px;
  }
+ 
+label{
+  font-size: 30px;
+ }
 
 
  
